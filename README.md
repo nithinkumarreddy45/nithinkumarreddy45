@@ -1,3 +1,4 @@
+![logo](https://github.com/nithin4545L/nithin4545L/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm NITHIN KUMAR REDDY</h1>
 <h3 align="center">A passionate AI & ML Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
