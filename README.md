@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nithinkumarreddyn@gmail.com**
 
-- 📄 Want to see my Resume [click here🫵](https://drive.google.com/file/d/1nnT0RBZufvxn1MBtJcjJPOE_UacDU8cR/view?usp=sharing)
+- 📄 Want to see my Resume [click here🫵](https://drive.google.com/file/d/1mQh_4Ee6Gv1RJyn6ACco9Ay-yilvQqnC/view?usp=sharing)
 
 - ⚡ Fun fact - **I see the world as a dataset waiting to be cleaned.**
 
